@@ -1,4 +1,5 @@
 ## Hello, my name is Mateus 😀
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 - 🔭 I’m currently working on Full Stack
 - 🌱 I’m currently learning .NET | C#
