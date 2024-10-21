@@ -6,7 +6,7 @@
 - 📫 You can reach me on [mateusdamasceno.dev@gmail.com](mailto:mateusdamaceno.dev@gmail.com)
 - 😄 Pronouns: He | Him
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MM-Damasceno&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MM-Damasceno&show_icons=true&theme=dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg">
